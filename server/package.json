@@ -1,5 +1,5 @@
 {
-  "name": "strapi-project",
+  "name": "server",
   "version": "0.1.0",
   "private": true,
   "description": "A Strapi application",
@@ -38,7 +38,7 @@
     "npm": ">=6.0.0"
   },
   "strapi": {
-    "uuid": "55d415b7-a4ac-4243-9d56-25f153fc1388",
-    "installId": "fd3c2202952bea0e9f19a6cf99b6baccc9aaad5c99a36bb8709037615677ac0b"
+    "uuid": "8e37fa27-58ac-4338-9c75-c78ac77034ff",
+    "installId": "8f8d13f2786c418e774a29519d053f006f013523620b1ed08ea988f3298e54e4"
   }
 }
